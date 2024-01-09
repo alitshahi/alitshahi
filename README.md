@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently learning python ,django and postgresql.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me https://www.linkedin.com/in/alit-shahi
+- 📫 How to reach me https://www.linkedin.com/in/alit-shahi-a475b3230/
 
 <!---
 alitshahi/alitshahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
